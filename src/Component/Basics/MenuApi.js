@@ -1,7 +1,7 @@
 const Menu = [
   {
     id: 1,
-    image: "./images/dann-error.png",
+    image: "./images/Noodels.jpg",
     name1: "maggie",
     category: "lunch",
     price: 25,
@@ -9,7 +9,7 @@ const Menu = [
   },
   {
     id: 2,
-    image: "../images/dann.png",
+    image: "../images/Dosa.jpg",
     name1: "Dosa",
     category: "Breakfast",
     price: 25,
@@ -17,7 +17,7 @@ const Menu = [
   },
   {
     id: 3,
-    image: "dann.png",
+    image: "../images/idly.jpg",
     name1: "Idly",
     category: "lunch",
     price: 25,
@@ -25,7 +25,7 @@ const Menu = [
   },
   {
     id: 4,
-    image: "../images/dann.png",
+    image: "../images/pulao.jpg",
     name1: "pulav",
     category: "Dinner",
     price: 25,
@@ -33,7 +33,7 @@ const Menu = [
   },
   {
     id: 5,
-    image: "../images/dann.png",
+    image: "../images/ricesambar.jpg",
     name1: "rice sambar",
     category: "Eve snacks",
     price: 25,
@@ -41,9 +41,9 @@ const Menu = [
   },
   {
     id: 5,
-    image: "../images/dann.png",
-    name1: "rice sambar",
-    category: "sweets",
+    image: "../images/sweet.jpg",
+    name1: "Sweets😋",
+    category: "sweets😋",
     price: 25,
     description: "lorem20",
   },
