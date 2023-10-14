@@ -1,3 +1,16 @@
+# UI
+cards
+
+![image](https://github.com/Divyamogaveera/Restaurent-hotel/assets/85350201/abe438f2-4498-4630-b2fe-dad048925f60)
+
+if you click one category from navbar , you will get the result for that category only , for eg 
+
+![image](https://github.com/Divyamogaveera/Restaurent-hotel/assets/85350201/f46913c4-856f-4b10-ba40-72b39bf17047)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
